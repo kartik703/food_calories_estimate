@@ -1,0 +1,21 @@
+@"
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Datasets/Models (optional if you don’t want to upload)
+data/
+models/
+"@ > .gitignore
